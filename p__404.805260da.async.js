@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkchessofstars=self.webpackChunkchessofstars||[]).push([[571],{47680:function(o,u,s){s.r(u);var t=s(67294),a=s(59841),n=s(85893),f=function(){return(0,t.useEffect)(function(){a.history.push("/")},[]),(0,n.jsx)(n.Fragment,{})};u.default=f}}]);
